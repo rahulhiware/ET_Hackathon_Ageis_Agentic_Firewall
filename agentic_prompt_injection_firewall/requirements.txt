@@ -1,0 +1,13 @@
+agno==3.1.1
+groq>=0.32.0
+streamlit>=1.50.0
+pydantic>=2.10,<3
+python-dotenv>=1.0.1
+requests>=2.32.0
+beautifulsoup4>=4.13.0
+pymupdf>=1.26.0
+python-docx>=1.2.0
+pytesseract>=0.3.13
+Pillow>=11.0.0
+sqlalchemy[asyncio]>=2.0.0
+greenlet>=3.0.0
